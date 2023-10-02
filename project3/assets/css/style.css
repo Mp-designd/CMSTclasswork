@@ -79,7 +79,7 @@ h1 {
 
 .logo {
  background-image: URL("../img/Adele_30.png");
- background-color: #cccccc;
+ background-color: rgba(255, 253, 208, 0.4);
  height: 20%;
  width: 100%;
  background-position: center;
@@ -111,7 +111,7 @@ h1 {
 .photo-background {
  margin: auto;
  background-image: URL("../img/21.jpg");
- background-color: #cccccc;
+ background-color: rgba(255, 253, 208, 0.4);
  height: 100%;
  width: 100%;
  background-position: center;
@@ -222,6 +222,11 @@ h1 {
   align-items: center;
   justify-content: space-around;
   flex-direction: column;
+}
+
+.art-wrk {
+  height: 100%;
+  width: 60em;
 }
 
 @media screen and (max-width: 768px) {
