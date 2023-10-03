@@ -16,8 +16,8 @@ ul> li {
    background-color: rgba(0, 0, 0, 0.5);
    align-items: center;
    flex-direction: column;
-   height: 25em;
-   width: 35%;
+   height: 15em;
+   width: 50%;
    position: absolute;
 }
 
