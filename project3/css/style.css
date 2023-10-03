@@ -16,7 +16,7 @@ ul> li {
    background-color: rgba(0, 0, 0, 0.5);
    align-items: center;
    flex-direction: column;
-   height: 55em;
+   height: 25em;
    width: 100%;
    position: absolute;
 }
@@ -80,7 +80,7 @@ h1 {
 .logo {
  background-image: URL("../img/Adele_30.png");
  background-color: rgba(255, 253, 208, 0.4);
- height: 2.5%;
+ height: 1%;
  width: 100%;
  background-position: center;
  background-size: contain;
