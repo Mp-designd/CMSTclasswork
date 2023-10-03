@@ -17,7 +17,7 @@ ul> li {
    align-items: center;
    flex-direction: column;
    height: 25em;
-   width: 100%;
+   width: 50%;
    position: absolute;
 }
 
