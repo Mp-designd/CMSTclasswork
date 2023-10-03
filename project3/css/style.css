@@ -16,7 +16,7 @@ ul> li {
    background-color: rgba(0, 0, 0, 0.5);
    align-items: center;
    flex-direction: column;
-   height: 100vh;
+   height: 55em;
    width: 100%;
    position: absolute;
 }
