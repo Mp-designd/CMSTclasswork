@@ -14,6 +14,7 @@ body > section {
 h1 {
     color: white;
     font-family: Arial;
+    font-style: italic;
     text-align: center;
 }
 
